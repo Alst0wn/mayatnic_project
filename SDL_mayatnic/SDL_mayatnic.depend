@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1639782983 source:c:\users\dbugr\desktop\proga2\mayatnic_project\main.cpp
+1639784216 source:c:\users\dbugr\desktop\proga2\mayatnic_project\main.cpp
 	<iostream>
 	"SDL.h"
 	<cmath>

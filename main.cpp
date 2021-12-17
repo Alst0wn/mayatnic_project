@@ -119,8 +119,7 @@ public:
 
 int main(int argv, char** args) {
     double L, l, M, m;
-    const double g = 9.81;
-    L=1; l=1; m=1; M=1;
+    L=1.5; l=1; m=1; M=1;
     CApp a(L, l, M, m);
     a.setData(vec(0, 0, -pi/2, -pi/3));
     a.OnExecute();
